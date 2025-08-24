@@ -1,0 +1,9 @@
+namespace NKC;
+
+public enum NKM_GAME_CAMERA_MODE
+{
+	NGCM_NORMAL_TRACKING,
+	NGCM_DRAG,
+	NGCM_FOCUS_UNIT,
+	NGCM_STOP
+}

@@ -1,0 +1,9 @@
+namespace NKM;
+
+public enum NKM_EQUIP_REFINE_RESULT : byte
+{
+	NERR_SUCCESS,
+	NERR_GREAT_SUCCESS,
+	NERR_FAIL,
+	NERR_GREAT_FAIL
+}

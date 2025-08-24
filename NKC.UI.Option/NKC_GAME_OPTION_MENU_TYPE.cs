@@ -1,0 +1,11 @@
+namespace NKC.UI.Option;
+
+public enum NKC_GAME_OPTION_MENU_TYPE
+{
+	NORMAL,
+	WARFARE,
+	DUNGEON,
+	DIVE,
+	REPLAY,
+	OBSERVE
+}

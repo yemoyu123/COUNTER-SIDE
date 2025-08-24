@@ -1,0 +1,8 @@
+namespace NKM.Contract2;
+
+public enum CONTRACT_TRIGGER_TYPE
+{
+	NONE,
+	STAGE_CLEAR,
+	SHOP_ITEM_PURCHASE
+}

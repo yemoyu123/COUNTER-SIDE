@@ -1,0 +1,7 @@
+namespace NKM;
+
+public enum NKM_WORLDMAP_EVENT_GRADE
+{
+	WEG_NORMAL,
+	WEG_SPECIAL
+}

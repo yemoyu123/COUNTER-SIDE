@@ -1,0 +1,11 @@
+namespace NKC;
+
+public enum NKC_DEV_UNIT_INFO
+{
+	BASICINFO,
+	STAT,
+	STATE,
+	BUFF,
+	SKILL,
+	TRIGGER
+}

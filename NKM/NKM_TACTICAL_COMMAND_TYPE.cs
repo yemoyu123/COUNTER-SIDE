@@ -1,0 +1,8 @@
+namespace NKM;
+
+public enum NKM_TACTICAL_COMMAND_TYPE
+{
+	NTCT_INVALID,
+	NTCT_ACTIVE,
+	NTCT_COMBO
+}

@@ -1,0 +1,10 @@
+namespace NKM;
+
+public enum DataFormatChangeTagType
+{
+	TEST_TAG,
+	OPEN_TAG_ATTENDANCE,
+	OPEN_TAG_EVENTPASS,
+	OPEN_TAG_GUILD_DUNGEON,
+	OPEN_TAG_PIECE
+}

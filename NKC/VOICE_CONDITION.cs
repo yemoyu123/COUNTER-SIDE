@@ -1,0 +1,9 @@
+namespace NKC;
+
+public enum VOICE_CONDITION
+{
+	VC_NONE,
+	VC_LIFETIME,
+	VC_LEVEL,
+	VC_DEVOTION
+}

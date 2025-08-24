@@ -1,0 +1,8 @@
+namespace NKC.UI.Worldmap;
+
+public enum NKC_WORLD_MAP_WARNING_TYPE
+{
+	NWMWT_NONE,
+	NWMWT_DIVE,
+	NWMWT_RAID
+}

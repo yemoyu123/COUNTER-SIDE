@@ -1,0 +1,8 @@
+namespace NKM;
+
+public enum NKM_CRAFT_SLOT_STATE : short
+{
+	NECSS_EMPTY,
+	NECSS_CREATING_NOW,
+	NECSS_COMPLETED
+}

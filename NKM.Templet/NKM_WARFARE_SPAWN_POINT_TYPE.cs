@@ -1,0 +1,8 @@
+namespace NKM.Templet;
+
+public enum NKM_WARFARE_SPAWN_POINT_TYPE
+{
+	NWSPT_NONE,
+	NWSPT_DIVE,
+	NWSPT_ASSAULT
+}

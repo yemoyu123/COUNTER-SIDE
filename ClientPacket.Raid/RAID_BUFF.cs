@@ -1,0 +1,11 @@
+namespace ClientPacket.Raid;
+
+public enum RAID_BUFF
+{
+	NONE,
+	INCREASE_ATTACK,
+	INCREASE_HEALTH,
+	REDUCE_SKILL_COOL_TIME,
+	REDUCE_COST_CHARGE_TIME,
+	MAX
+}

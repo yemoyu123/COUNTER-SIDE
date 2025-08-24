@@ -1,0 +1,10 @@
+namespace ClientPacket.Item;
+
+public enum NKM_EQUIP_PRESET_TYPE
+{
+	NEPT_INVLID,
+	NEPT_NONE,
+	NEPT_COUNTER,
+	NEPT_SOLDIER,
+	NEPT_MECHANIC
+}

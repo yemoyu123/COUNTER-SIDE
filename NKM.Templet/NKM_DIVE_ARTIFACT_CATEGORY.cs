@@ -1,0 +1,10 @@
+namespace NKM.Templet;
+
+public enum NKM_DIVE_ARTIFACT_CATEGORY
+{
+	NDAC_ALL,
+	NDAC_COUNTER,
+	NDAC_SOLDIER,
+	NDAC_MECHANIC,
+	NDAC_ETC
+}

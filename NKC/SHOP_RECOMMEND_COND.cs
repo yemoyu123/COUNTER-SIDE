@@ -1,0 +1,8 @@
+namespace NKC;
+
+public enum SHOP_RECOMMEND_COND
+{
+	NONE,
+	PURCHASE_ABLE,
+	PURCHASE_ABLE_TIME
+}

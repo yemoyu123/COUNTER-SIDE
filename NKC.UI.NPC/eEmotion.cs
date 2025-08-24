@@ -1,0 +1,19 @@
+namespace NKC.UI.NPC;
+
+public enum eEmotion
+{
+	ANSWER,
+	RETURN,
+	QUESTION,
+	CALL,
+	DESPAIR,
+	DISAPPROVAL,
+	LAUGH,
+	COUHG,
+	SURPRISE,
+	ANGER,
+	DOUBT,
+	SAD,
+	NERVOUS,
+	INTEREST
+}

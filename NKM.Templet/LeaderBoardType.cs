@@ -1,0 +1,19 @@
+namespace NKM.Templet;
+
+public enum LeaderBoardType
+{
+	BT_NONE = -1,
+	BT_ACHIEVE,
+	BT_COLLECTION,
+	BT_PVP_RANK,
+	BT_PVP_LEAGUE_TOP,
+	BT_SHADOW,
+	BT_FIERCE,
+	BT_GUILD,
+	BT_TIMEATTACK,
+	BT_DEFENCE,
+	BT_TOURNAMENT,
+	BT_LEAGUE,
+	BT_UNLIMITED,
+	Count
+}

@@ -1,0 +1,11 @@
+namespace NKM.Templet;
+
+public enum EPISODE_GROUP
+{
+	EG_SUMMARY,
+	EG_MAINSTREAM,
+	EG_SUBSTREAM,
+	EG_GROWTH,
+	EG_CHALLENGE,
+	Count
+}

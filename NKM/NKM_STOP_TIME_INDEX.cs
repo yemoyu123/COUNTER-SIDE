@@ -1,0 +1,9 @@
+namespace NKM;
+
+public enum NKM_STOP_TIME_INDEX
+{
+	NSTI_DAMAGE,
+	NSTI_SKILL,
+	NSTI_OPERATOR_SKILL,
+	NSTI_MAX
+}

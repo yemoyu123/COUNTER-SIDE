@@ -1,0 +1,7 @@
+namespace NKC;
+
+public enum NKC_DIVE_GAME_UNIT_DIE_TYPE
+{
+	NDGUDT_EXPLOSION,
+	NDGUDT_WARP
+}

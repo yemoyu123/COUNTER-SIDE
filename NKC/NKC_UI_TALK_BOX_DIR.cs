@@ -1,0 +1,9 @@
+namespace NKC;
+
+public enum NKC_UI_TALK_BOX_DIR
+{
+	NTBD_RIGHT,
+	NTBD_LEFT,
+	NTBD_RIGHT_DOWN,
+	NTBD_LEFT_DOWN
+}

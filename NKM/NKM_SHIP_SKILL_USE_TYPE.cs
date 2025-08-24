@@ -1,0 +1,10 @@
+namespace NKM;
+
+public enum NKM_SHIP_SKILL_USE_TYPE : short
+{
+	NSSUT_INVALID,
+	NSSUT_ANY,
+	NSSUT_ENEMY,
+	NSSUT_MY_TEAM,
+	NSSUT_SHIP_ATTACKED
+}

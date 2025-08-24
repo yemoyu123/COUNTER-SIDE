@@ -1,0 +1,11 @@
+namespace NKM.Templet;
+
+public enum STAT_TYPE
+{
+	STANDARD,
+	UNIT_TYPE,
+	CLASS_DMG,
+	MOVE_TYPE,
+	SKILL_TYPE,
+	ADDITIONAL
+}

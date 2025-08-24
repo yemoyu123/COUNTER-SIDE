@@ -1,0 +1,9 @@
+namespace NKC;
+
+public enum NKM_GAME_QUICK_MOVE
+{
+	NGCQM_LEFT_END,
+	NGCQM_LEFT,
+	NGCQM_RIGHT,
+	NGCQM_RIGHT_END
+}

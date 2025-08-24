@@ -1,0 +1,7 @@
+namespace NKM;
+
+public enum NKM_DAMAGE_EFFECT_CLASS_TYPE
+{
+	NDECT_NKM,
+	NDECT_NKC
+}

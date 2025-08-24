@@ -1,0 +1,8 @@
+namespace NKM;
+
+public enum NKM_ASTAR_SEARCH_TILE_TYPE
+{
+	NASTT_FLOOR = 1,
+	NASTT_WATER = 99998,
+	NASTT_WALL = 99999
+}

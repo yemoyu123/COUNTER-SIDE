@@ -1,0 +1,9 @@
+namespace NKM;
+
+public enum NKM_FRIEND_LIST_TYPE
+{
+	FRIEND,
+	BLOCKER,
+	SEND_REQUEST,
+	RECEIVE_REQUEST
+}

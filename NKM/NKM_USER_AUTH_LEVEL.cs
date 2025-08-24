@@ -1,0 +1,9 @@
+namespace NKM;
+
+public enum NKM_USER_AUTH_LEVEL : byte
+{
+	NORMAL_USER = 1,
+	NORMAL_ADMIN,
+	SUPER_USER,
+	SUPER_ADMIN
+}

@@ -1,0 +1,15 @@
+namespace NKC;
+
+public enum DEV_CONSOLE_MENU_TYPE
+{
+	LOG,
+	SYSTEM,
+	GAME,
+	TEST,
+	SHOP,
+	ITEM,
+	PVP,
+	CHEAT,
+	MEMORY,
+	MAX
+}

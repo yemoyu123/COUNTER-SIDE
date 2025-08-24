@@ -1,0 +1,9 @@
+namespace NKM;
+
+public enum NKM_UNIT_CLASS_TYPE
+{
+	NCT_INVALID,
+	NCT_UNIT,
+	NCT_UNIT_CLIENT,
+	NCT_UNIT_SERVER
+}

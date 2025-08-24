@@ -1,0 +1,8 @@
+namespace NKC;
+
+public enum NKC_GAME_OPTION_VOICE_LANGUAGE
+{
+	KOREAN,
+	CHINESE,
+	JAPANESE
+}

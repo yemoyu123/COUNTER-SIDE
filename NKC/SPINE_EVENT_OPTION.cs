@@ -1,0 +1,7 @@
+namespace NKC;
+
+public enum SPINE_EVENT_OPTION
+{
+	SEO_NORMAL,
+	SEO_NORMAL_NO_RESTART
+}

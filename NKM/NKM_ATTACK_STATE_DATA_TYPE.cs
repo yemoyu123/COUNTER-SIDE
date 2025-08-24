@@ -1,0 +1,8 @@
+namespace NKM;
+
+public enum NKM_ATTACK_STATE_DATA_TYPE
+{
+	NASDT_NORMAL,
+	NASDT_REVENGE,
+	NASDT_GUARD
+}

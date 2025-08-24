@@ -1,0 +1,8 @@
+namespace NKC;
+
+public enum NKC_CUTSCEN_SOUND_CONTROL
+{
+	NCSC_STOP,
+	NCSC_ONE_TIME_PLAY,
+	NCSC_LOOP_PLAY
+}

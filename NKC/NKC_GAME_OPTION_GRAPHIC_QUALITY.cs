@@ -1,0 +1,11 @@
+namespace NKC;
+
+public enum NKC_GAME_OPTION_GRAPHIC_QUALITY
+{
+	VERY_LOW,
+	LOW,
+	NORMAL,
+	HIGH,
+	VERY_HIGH,
+	MAX
+}

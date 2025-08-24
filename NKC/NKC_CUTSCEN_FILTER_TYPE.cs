@@ -1,0 +1,8 @@
+namespace NKC;
+
+public enum NKC_CUTSCEN_FILTER_TYPE
+{
+	NCFT_NONE,
+	NCFT_NORMAL,
+	NCFT_SEPIA
+}

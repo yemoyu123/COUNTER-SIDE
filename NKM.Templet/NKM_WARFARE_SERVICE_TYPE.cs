@@ -1,0 +1,8 @@
+namespace NKM.Templet;
+
+public enum NKM_WARFARE_SERVICE_TYPE
+{
+	NWST_NONE,
+	NWST_REPAIR,
+	NWST_RESUPPLY
+}

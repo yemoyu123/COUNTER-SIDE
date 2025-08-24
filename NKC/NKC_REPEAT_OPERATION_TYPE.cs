@@ -1,0 +1,8 @@
+namespace NKC;
+
+public enum NKC_REPEAT_OPERATION_TYPE
+{
+	NROT_NONE,
+	NROT_WARFARE,
+	NROT_DUNGEON
+}

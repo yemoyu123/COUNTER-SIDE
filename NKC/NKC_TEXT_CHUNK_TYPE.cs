@@ -1,0 +1,10 @@
+namespace NKC;
+
+public enum NKC_TEXT_CHUNK_TYPE
+{
+	NTCT_TEXT,
+	NTCT_COLOR,
+	NTCT_COLOR_END,
+	NTCT_BOLD,
+	NTCT_BOLD_END
+}

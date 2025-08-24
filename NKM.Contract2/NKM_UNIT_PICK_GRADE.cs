@@ -1,0 +1,13 @@
+namespace NKM.Contract2;
+
+public enum NKM_UNIT_PICK_GRADE
+{
+	NUPG_N,
+	NUPG_N_PICK,
+	NUPG_R,
+	NUPG_R_PICK,
+	NUPG_SR,
+	NUPG_SR_PICK,
+	NUPG_SSR,
+	NUPG_SSR_PICK
+}

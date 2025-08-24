@@ -1,0 +1,10 @@
+namespace NKC;
+
+public enum NKC_DEV_CONSOLE_MENU_TYPE
+{
+	NORMAL,
+	LOG,
+	CHEAT,
+	POST,
+	TUTORIAL
+}

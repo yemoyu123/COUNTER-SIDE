@@ -1,0 +1,10 @@
+namespace NKM;
+
+public enum NKM_SUPER_ARMOR_LEVEL : short
+{
+	NSAL_INVALID,
+	NSAL_NO,
+	NSAL_SKILL,
+	NSAL_HYPER,
+	NSAL_SUPER
+}

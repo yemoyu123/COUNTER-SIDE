@@ -1,0 +1,8 @@
+namespace NKM;
+
+public enum NKM_BOSS_TYPE
+{
+	NBT_NONE,
+	NBT_DUNGEON_BOSS,
+	NBT_WARFARE_BOSS
+}

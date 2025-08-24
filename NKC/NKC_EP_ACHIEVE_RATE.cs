@@ -1,0 +1,10 @@
+namespace NKC;
+
+public enum NKC_EP_ACHIEVE_RATE
+{
+	AR_NONE = -1,
+	AR_CLEAR_STEP_1,
+	AR_CLEAR_STEP_2,
+	AR_CLEAR_STEP_3,
+	AR_CLEAR_COUNT
+}

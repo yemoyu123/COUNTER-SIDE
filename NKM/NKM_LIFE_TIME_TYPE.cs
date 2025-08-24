@@ -1,0 +1,8 @@
+namespace NKM;
+
+public enum NKM_LIFE_TIME_TYPE
+{
+	NLTT_INFINITY,
+	NLTT_TIME,
+	NLTT_ANIM_COUNT
+}

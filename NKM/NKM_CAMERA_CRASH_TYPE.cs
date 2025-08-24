@@ -1,0 +1,9 @@
+namespace NKM;
+
+public enum NKM_CAMERA_CRASH_TYPE
+{
+	NCCT_UP,
+	NCCT_DOWN,
+	NCCT_UP_DOWN,
+	NCCT_UP_DOWN_NO_RESET
+}

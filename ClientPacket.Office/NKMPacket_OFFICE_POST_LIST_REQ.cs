@@ -1,0 +1,15 @@
+using Cs.Protocol;
+using Protocol;
+
+namespace ClientPacket.Office;
+
+[PacketId(ClientPacketId.kNKMPacket_OFFICE_POST_LIST_REQ)]
+public sealed class NKMPacket_OFFICE_POST_LIST_REQ : ISerializable
+{
+	public long lastPostUid;
+
+	void ISerializable.Serialize(IPacketStream stream)
+	{
+		stream.PutOrGet(ref lastPostUid);
+	}
+}

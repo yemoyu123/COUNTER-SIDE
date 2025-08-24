@@ -1,0 +1,9 @@
+namespace NKC;
+
+public enum NKC_OPEN_WAIT_BOX_TYPE
+{
+	NOWBT_INVALID,
+	NOWBT_NORMAL,
+	NOWBT_SMALL,
+	NOWBT_CLOSE
+}

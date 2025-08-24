@@ -1,0 +1,10 @@
+namespace NKM.Templet;
+
+public enum STAGE_SUB_TYPE
+{
+	SST_NORMAL,
+	SST_PRACTICE,
+	SST_TUTORIAL,
+	SST_KILLCOUNT,
+	SST_TIMEATTACK
+}

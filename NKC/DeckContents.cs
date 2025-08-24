@@ -1,0 +1,12 @@
+namespace NKC;
+
+public enum DeckContents
+{
+	NORMAL,
+	SHADOW_PALACE,
+	FIERCE_BATTLE_SUPPORT,
+	GUILD_COOP,
+	PHASE,
+	EVENT_PVP,
+	DEFENCE
+}

@@ -1,0 +1,8 @@
+namespace NKM;
+
+public enum NKM_REACTOR_TYPE
+{
+	NRT_INVALID,
+	NRT_GAME_UNIT,
+	NRT_DAMAGE_EFFECT
+}

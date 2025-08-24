@@ -1,0 +1,15 @@
+namespace NKM.Event;
+
+public enum NKM_EVENT_TYPE
+{
+	SIMPLE,
+	BINGO,
+	MISSION,
+	ONTIME,
+	CONTRACT,
+	RACE,
+	KAKAOEMOTE,
+	KILLCOUNT,
+	MISSION_ROW,
+	BAR
+}

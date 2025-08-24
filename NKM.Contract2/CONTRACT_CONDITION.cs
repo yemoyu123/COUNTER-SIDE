@@ -1,0 +1,9 @@
+namespace NKM.Contract2;
+
+public enum CONTRACT_CONDITION
+{
+	NONE,
+	CONTRACT_FINISH,
+	WARFARE_CLEARED,
+	STAGE_CLEARED
+}

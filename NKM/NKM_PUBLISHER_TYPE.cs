@@ -1,0 +1,10 @@
+namespace NKM;
+
+public enum NKM_PUBLISHER_TYPE : byte
+{
+	NPT_DEV = 0,
+	NPT_NEXON_KOREA = 10,
+	NPT_ZLONG_CHINA = 20,
+	NPT_STUDIO_BSIDE = 30,
+	NPT_STEAM = 40
+}
